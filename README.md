@@ -15,7 +15,7 @@ End the program with 'ESC'.
 
   
 #### You can output AR objects different from example code
-#### (Shapes, alphabets/numbers, 3D models; use pywavefront libraries, etc.)
+(Shapes, alphabets/numbers, 3D models; use pywavefront libraries, etc.)
 
   
 ### Example)  
